@@ -16,13 +16,10 @@ namespace arrayTasks
                 nums[n] = Convert.ToInt32(Console.ReadLine());
             }
             int[] reversedNums = new int[nums.Length];
-            int firstIndex = 0;
             int lastIndex = 0 + nums.Length - 1;
-            while (lastIndex >= 0)
+            for (int i = 0; i < nums.Length; i++)
             {
-                reversedNums[firstIndex] = nums[lastIndex];
-                firstIndex++;
-                lastIndex--;
+                reversedNums[lastIndex - i] = nums[i];
             }
             Console.WriteLine("\nYour initial array: ");
             for (int n = 0; n < nums.Length; n++)
