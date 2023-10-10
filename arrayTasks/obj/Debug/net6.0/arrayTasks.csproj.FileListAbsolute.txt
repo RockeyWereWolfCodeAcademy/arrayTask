@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\bin\Debug\net6.0\arrayTasks.exe
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\bin\Debug\net6.0\arrayTasks.deps.json
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\bin\Debug\net6.0\arrayTasks.runtimeconfig.json
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\bin\Debug\net6.0\arrayTasks.dll
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\bin\Debug\net6.0\arrayTasks.pdb
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.AssemblyInfo.cs
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.dll
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\refint\arrayTasks.dll
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.pdb
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\arrayTasks.genruntimeconfig.cache
+C:\Users\User\Downloads\testserver\arrayTasks\arrayTasks\arrayTasks\obj\Debug\net6.0\ref\arrayTasks.dll
