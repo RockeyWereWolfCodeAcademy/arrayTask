@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection;
 
 namespace arrayTasks
@@ -8,31 +8,31 @@ namespace arrayTasks
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a size of your initial array: ");
-            int numsSize = Convert.ToInt32(Console.ReadLine());
-            int[] nums = new int[numsSize];
+            int size = Convert.ToInt32(Console.ReadLine());
+            int[] nums = new int[size];
             for (int n = 0; n < nums.Length; n++)
             {
-                Console.WriteLine("\nEnter "+(n + 1) +"th element of array: ");
-                nums[n]  = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("\nEnter element №" + (n + 1) + " of array: ");
+                nums[n] = Convert.ToInt32(Console.ReadLine());
             }
             int[] reversedNums = new int[nums.Length];
-            int i = 0;
-            int j = 0 + reversedNums.Length - 1;
-            while (j >= 0)
+            int firstIndex = 0;
+            int lastIndex = 0 + nums.Length - 1;
+            while (lastIndex >= 0)
             {
-                reversedNums[i] = nums[j];
-                i++;
-                j--;
+                reversedNums[firstIndex] = nums[lastIndex];
+                firstIndex++;
+                lastIndex--;
             }
-            Console.WriteLine("Your initial array: ");
+            Console.WriteLine("\nYour initial array: ");
             for (int n = 0; n < nums.Length; n++)
             {
-                Console.WriteLine((n + 1) + "th element: " + nums[n]);
+                Console.WriteLine("Element №" + (n + 1) + ": " + nums[n]);
             }
             Console.WriteLine("\nReversed initial array: ");
             for (int n = 0; n < reversedNums.Length; n++)
             {
-                Console.WriteLine((n + 1) + "th element: " + reversedNums[n]);
+                Console.WriteLine("Element №" + (n + 1) + ": " + reversedNums[n]);
             }
         }
     }
