@@ -1,4 +1,4 @@
-# C# "Arrays" Name Task
+# C# "Arrays" Named Task
 
 ## Task Description:
 
